@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class Deth8 {
     @Override
     public String toString() {
-        return "";
+        return "ded is dead, baby";
     }
 }
